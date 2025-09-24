@@ -38,14 +38,14 @@
             this.lblStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblStatus.Location = new System.Drawing.Point(122, 50);
             this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(364, 39);
+            this.lblStatus.Size = new System.Drawing.Size(352, 38);
             this.lblStatus.TabIndex = 0;
             this.lblStatus.Text = "-Before starting thread-";
             // 
             // btnRun
             // 
             this.btnRun.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRun.Location = new System.Drawing.Point(229, 139);
+            this.btnRun.Location = new System.Drawing.Point(232, 131);
             this.btnRun.Name = "btnRun";
             this.btnRun.Size = new System.Drawing.Size(120, 52);
             this.btnRun.TabIndex = 1;
